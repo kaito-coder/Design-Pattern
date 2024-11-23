@@ -1,0 +1,95 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.logs
+*.iml
+.mtj.tmp/
+hs_err_pid*
+out/
+target/
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
+vendor/
+
+# Ruby
+*.gem
+*.rbc
+/.config
+/coverage/
+/pkg/
+/spec/reports/
+/test/tmp/
+/test/version_tmp/
+.rake_tasks~
+.ruby-version
+.ruby-gemset
+.rvmrc
+
+# IDE - IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+modules.xml
+.idea_modules/
+
+# IDE - VSCode
+.vscode/
+*.code-workspace
+.history/
+
+# IDE - Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+bin/
+tmp/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build directories
+build/
+dist/
+*/out/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Others
+*.swp
+*.swo
+*~
